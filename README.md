@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hola! Soy Maxy, Programador Web Full-Stack.</h1>
 
-Egresado del Bootcamp SoyHenry 🚀 con mas de 700 horas te programación teorica - practica. En el mismo ademas de programar, aprendi a trabajar en equipo, resolver problemas, liderar un proyecto, entre otras cosas. Mientras espero mi primer empleo en sector IT, sigo profundizando mis conocimientos en las tecnologias que domino para seguir creciendo como profesional.
+Egresado del Bootcamp SoyHenry 🚀 con mas de 700 horas de programación teórica - práctica. En el mismo además de programar, aprendí a trabajar en equipo, resolver problemas, liderar un proyecto, entre otras cosas. Mientras espero mi primer empleo en sector IT, sigo profundizando mis conocimientos en las tecnologías que domino para seguir creciendo como profesional.
 
 Me considero una persona proactiva la cual le gustan los desafíos y aprender cosas nuevas continuamente. 📚📓
 
