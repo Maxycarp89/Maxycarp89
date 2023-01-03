@@ -1,24 +1,22 @@
-👋 Hola! Soy Maxy, Programador Web Full-Stack.
+<h1 align="center">👋 Hola! Soy Maxy, Programador Web Full-Stack.</h1>
 
 Egresado del Bootcamp SoyHenry 🚀 con mas de 700 horas te programación teorica - practica. En el mismo ademas de programar, aprendi a trabajar en equipo, resolver problemas, liderar un proyecto, entre otras cosas. Mientras espero mi primer empleo en sector IT, sigo profundizando mis conocimientos en las tecnologias que domino para seguir creciendo como profesional.
 
 Me considero una persona proactiva la cual le gustan los desafíos y aprender cosas nuevas continuamente. 📚📓
 
-En este momento trabajo con las tecnologías:
 
-![css](https://user-images.githubusercontent.com/89032219/210362747-f88e6732-5dec-45a5-9e6f-905b61d90693.png)
-![html](https://user-images.githubusercontent.com/89032219/210362977-3c33ed7c-1cc6-49bd-a53e-9eed86b7562d.png)
-![javascript](https://user-images.githubusercontent.com/89032219/210363037-6a15f522-70d9-4638-b2ac-220db85de3a5.png)
-![node](https://user-images.githubusercontent.com/89032219/210363052-4fc94f82-29b5-4b5a-ab4c-86ccc6794d99.png)
-![postgresql](https://user-images.githubusercontent.com/89032219/210363066-202c6a30-aff7-4b9a-95f8-9e04be73523c.png)
-![react](https://user-images.githubusercontent.com/89032219/210363089-095d1b58-b05e-4dae-b602-302c7f029588.png)
-![redux](https://user-images.githubusercontent.com/89032219/210363101-0c09c7af-f4b9-4c8f-b1c5-f748cba6f74e.png)
-![tailwind](https://user-images.githubusercontent.com/89032219/210363107-68890a7f-5a6e-48c0-91cd-72211512c629.png)
+
+<h3 align="left">Actualmente trabajo con :</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
 y que hago cuando no estudio? Juego al futbol ⚽, miro peliculas 🍿 , salgo a divertirme con mis amigos 🥳.
 
-Como contactarme? ➡️
+<h3 align="left">como contactarme? </h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/maximiliano-costilla-1805b4213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maximiliano-costilla-1805b4213/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/maxycostilla89/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/maxycostilla89/" height="30" width="40" /></a>
+</p>
 
 
-💬 https://www.linkedin.com/in/maximiliano-costilla-1805b4213/
-📫 maxicostilla21@gmail.com
+
+📫 Pueden también contactarse conmigo a través de mi gmail: **maxicostilla21@gmail.com**
