@@ -1,8 +1,13 @@
-<h1 align="center">👋 Hola! Soy Maxy, Programador Web Full-Stack.</h1>
+<h1 align="center">👋 Hola! Soy Maxy, Desarrrollador de software.</h1>
 
-Egresado del Bootcamp SoyHenry 🚀 con mas de 700 horas de programación teórica - práctica. En el mismo además de programar, aprendí a trabajar en equipo, resolver problemas, liderar un proyecto, entre otras cosas. Mientras espero mi primer empleo en sector IT, sigo profundizando mis conocimientos en las tecnologías que domino para seguir creciendo como profesional.
+Hola! 😃👋🏻 Mi Nombre es Maximiliano, me considero una persona creativa, apasionada, con buen ánimo y capaz de resolver problemas fácilmente. Mi objetivo principal es desarrollarme en lo profesional y evolucionar en el sector IT. 
 
-Me considero una persona proactiva la cual le gustan los desafíos y aprender cosas nuevas continuamente. 📚📓
+Estoy emocionado por las oportunidades que el futuro tiene para ofrecer y por la posibilidad de seguir aprendiendo y creciendo en el mundo del desarrollo. Siempre estoy dispuesto a enfrentar nuevos desafíos y aportar valor con mi creatividad y habilidades.
+
+¡Gracias por visitar mi perfil! Estoy abierto a conectar y explorar posibles colaboraciones y oportunidades en el ámbito profesional. 
+
+👉 ¡Si te interesa saber más sobre mí, no dudes en contactarme!
+📧 maxicostilla21@gmail.com 📚📓
 
 
 
