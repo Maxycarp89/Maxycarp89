@@ -1,27 +1,67 @@
-<h1 align="center">👋 Hola! Soy Maxy, Desarrrollador de software.</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Node.js+Specialist;Clean+Code+Advocate" alt="Typing SVG" />
+</div>
 
-Hola! 😃👋🏻 Mi Nombre es Maximiliano, me considero una persona creativa, apasionada, con buen ánimo y capaz de resolver problemas fácilmente. Mi objetivo principal es desarrollarme en lo profesional y evolucionar en el sector IT. 
+## 👋 Sobre Mí
 
-Estoy emocionado por las oportunidades que el futuro tiene para ofrecer y por la posibilidad de seguir aprendiendo y creciendo en el mundo del desarrollo. Siempre estoy dispuesto a enfrentar nuevos desafíos y aportar valor con mi creatividad y habilidades.
-
-¡Gracias por visitar mi perfil! Estoy abierto a conectar y explorar posibles colaboraciones y oportunidades en el ámbito profesional. 
-
-👉 ¡Si te interesa saber más sobre mí, no dudes en contactarme!
-📧 maxicostilla21@gmail.com 📚📓
+Full Stack Developer con **3+ años de experiencia** diseñando y construyendo aplicaciones web escalables, con fuerte enfoque en **arquitectura limpia, performance y DX (Developer Experience)**.
+Especializado en **React, Node.js, SAP integration y arquitecturas escalables**. Mi diferencial: entiendo el negocio, no solo el código. Experiencia liderando equipos, gestionando stakeholders y entregando features que impactan métricas reales.
 
 
-
-<h3 align="left">Actualmente trabajo con :</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
-
-y que hago cuando no estudio? Juego al futbol ⚽, miro peliculas 🍿 , salgo a divertirme con mis amigos 🥳.
-
-<h3 align="left">como contactarme? </h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/maximiliano-costilla-1805b4213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maximiliano-costilla-1805b4213/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/maxycostilla89/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/maxycostilla89/" height="30" width="40" /></a>
-</p>
+- 🔭 **Actualmente:** Desarrollando sistemas de gestión con React, Node.js y SAP [@Grupo Yuhmak](https://grupoyuhmak.com/)
+- 🔭 **También** estoy trabajando en **[React Terminal Labs](http://react-terminal-labs.com/)** con React y Node.js
+- 🌱 **Aprendiendo:** NestJS, System Design, AWS
+- 💬 **Pregúntame sobre:** Refactorización de legacy, integración SAP,  React patterns , optimización de performance
+- 📍 Tucumán, Argentina | 🌐 Inglés B1 | 📱 +54 381 626-2536
 
 
+## 🛠 Tech Stack
 
-📫 Pueden también contactarse conmigo a través de mi gmail: **maxicostilla21@gmail.com**
+**Frontend:**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+
+**Backend & DB:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+
+**Testing & Tools:**  
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+
+## 📈 Impacto & Métricas
+
+| Métrica | Logro | Contexto |
+|---------|-------|----------|
+| ⚡ **+80%** | Performance | Refactorización React (class → hooks + Redux) |
+| 🏭 **Producción** | Sistema real | Turnos-Yuhmak usado por clientes diariamente |
+| 🔗 **Integración** | SAP API | Conexión en tiempo real con sistema legacy |
+| ✅ **Cobertura** | Testing | Unitario, integración y sistema implementados |
+| 👥 **Liderazgo** | 7+ años | Gestión de equipos 15+ personas (antes de dev) |
+
+## 🚀 Proyectos Destacados
+
+| Proyecto | Stack | Descripción |
+|----------|-------|-------------|
+| **[React-Terminal-Labs](https://react-terminal-labs.com/)** | React, Supabase, Node.js | Laboratorio de entrenamiento avanzado de React estilo terminal |
+| **[WAW Studio](https://waw-studio-website.vercel.app/)** | React,Tailwind, Node,js, MongoDB | Plataforma de gestión para estudio de diseño estilo comic |
+| **[Portfolio 2.0](https://portfoliov2-maximiliano-costilla.vercel.app/)** | Next.js, TS, Tailwind | Portfolio con animaciones, dark mode,estilo neo brutalist |
+
+## 📫 Contacto
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/maximiliano-costilla/)
+- 🌐 [Portfolio](https://portfoliov2-maximiliano-costilla.vercel.app/)
+- 📧 maxicostilla21@gmail.com
+
+  <div align="center">
+  <i>"Código limpio, arquitectura escalable, foco en el negocio."</i>
+</div>
